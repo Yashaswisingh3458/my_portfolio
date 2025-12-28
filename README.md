@@ -1,7 +1,6 @@
 
-  # Developer Portfolio
-
-  A modern, interactive portfolio showcasing projects, skills, and achievements.
+  # My Portfolio
+  Terminal-inspired portfolio showcasing projects, DSA skills, problem-solving mindset, and competitive programming profiles.
 
   ## Running the code
 
